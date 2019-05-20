@@ -17,6 +17,8 @@ class App extends Component {
         <Hello name={this.state.name} />
         <p>
           Start editing to see some magic happen :)
+          <p/>
+          Test to see if stackblitz reverts my code.
         </p>
       </div>
     );
